@@ -1,0 +1,10 @@
+2023-08-06 02:15:59.170943 - Initialized conversion of CBT215
+2023-08-06 02:15:59.237780 - Received CBT.V505.FILE215.PDS from FILE215.XMI 
+2023-08-06 02:15:59.240113 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:15:59.241143 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/$$$DOC
+2023-08-06 02:15:59.242159 - Found #ARTEXMP.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/#ARTEXMP
+2023-08-06 02:15:59.243119 - Found #ARTPTF.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/#ARTPTF
+2023-08-06 02:15:59.244173 - Found #ARTSMPC.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/#ARTSMPC
+2023-08-06 02:15:59.245125 - Found @FILE215.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/@FILE215
+2023-08-06 02:15:59.245995 - Found PTF.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/PTF
+2023-08-06 02:15:59.247034 - Found SMPCLIST.txt (text/plain) in CBT.V505.FILE215.PDS, moved to PDS/SMPCLIST
